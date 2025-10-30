@@ -28,6 +28,7 @@ const tentar = () => {
         return
     }
     else if(tentativa !== sorteado && chances > 0){
+        if(document.getElementById('div-dica').style.display === 'none'){ document.getElementById('div-dica').style.display = 'block' }
         chances -= 1
         document.getElementById('tentativas').innerText = `Você possui ${chances} tentativas:`
         document.getElementById('resultado-lance').innerText = `Errou! Tente novamente!`
