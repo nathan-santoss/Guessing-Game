@@ -1,4 +1,4 @@
-# 🎯 Where's Hear? - Number Guessing Game (Electron Desktop App)
+# 🎯 Number Guessing Game (Electron Desktop App)
 
 This project is a simple yet robust desktop application developed with **Electron** to provide a native gaming experience. Its goal is to test the user's guessing skills in a limited-attempt challenge. It's a fundamental demonstration of building secure, cross-platform applications using web technologies.
 
